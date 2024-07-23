@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~bootstrap/dist/css/bootstrap.min.css";
+.cardSymbol {
+  font-size: 76px;
+}
+
+.card-value  {
+  font-size: 120px;
+}
+
